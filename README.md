@@ -1,5 +1,5 @@
 # ShotTime
-Simulation and analysis of basketball drill
+Simulation and analysis of a basketball exercise
 
 Often when I practice basketball, I will set out to make two free throws in a row before leaving the gym. It gives me a sense of accomplishment at the end of the workout, regardless of the quality the rest of the workout.
 
