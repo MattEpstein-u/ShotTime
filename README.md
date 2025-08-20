@@ -7,7 +7,8 @@ One day, I set out to shoot three-pointers until I made 4 three-pointers in a ro
 
 **Question: How long can I expect to be doing the exercise?**
 
-There are some assumptions for the purpose of data analysis:
+The model makes some assumptions to make calculation simple:
+
 Three-point percentage is constant: 40%
 
 Free throw percentage is constant: 80%
