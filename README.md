@@ -9,8 +9,10 @@ One day, I set out to shoot three-pointers until I made 4 three-pointers in a ro
 
 There are some assumptions for the purpose of data analysis:
 Three-point percentage is constant: 40%
+
 Free throw percentage is constant: 80%
-The time is takes to retrive the ball (rebound) and shoot the next shot is constant: 10 seconds
+
+The time is takes to retrieve the ball (rebound) and shoot the next shot is constant: 10 seconds
 
 Variables:
 SEED = 42 # Random seed for data reproducibility
